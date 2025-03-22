@@ -95,15 +95,10 @@ public class MSTwo {
                                         System.out.printf("| %-35s | %-25s |\n", "Employee Details", "Details");
                                         System.out.println("+-------------------------------------+---------------------------+");
                                         System.out.printf("| %-35s | %-25s |\n", "Employee Number", "10004");
-                                        //System.out.println("+---------------------------+---------------------------+");
                                         System.out.printf("| %-35s | %-25s |\n", "Employee Name", "Reyes, Isabella");
-                                        //System.out.println("+---------------------------+---------------------------+");
                                         System.out.printf("| %-35s | %-25s |\n", "Gross Weekly Rae", "15,000.00");
-                                        //System.out.println("+---------------------------+---------------------------+");
                                         System.out.printf("| %-35s | %-25s |\n", "Rice Subsidy Allowance (Monthly)", "1,500.00");
-                                       //System.out.println("+---------------------------+---------------------------+");
                                         System.out.printf("| %-35s | %-25s |\n", "Clothing Allowance (Monthly)", "1,000.00");
-                                        //System.out.println("+---------------------------+---------------------------+");
                                         System.out.printf("| %-35s | %-25s |\n", "Phone Allowance (Monthly)", "2,000.00");
                                         System.out.println("+-------------------------------------+---------------------------+");
                             System.out.println("\n");
