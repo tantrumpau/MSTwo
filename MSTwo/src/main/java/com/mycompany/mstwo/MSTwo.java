@@ -59,7 +59,7 @@ public class MSTwo {
                     TimeInMinutes = 00;
                 } else if(TimeInHour <= 7){//if earlier than 8AM
                     TimeInHour = 8;
-                } else if((TimeInHour == 12 &&((TimeInMinutes >= 1) &&(TimeInMinutes <= 59)))){//if login falls on breaktime
+                } else if((TimeInHour == 12 &&((TimeInMinutes >= 1) && (TimeInMinutes <= 59)))){//if login falls on breaktime
                     TimeInMinutes = 0;
                 }
                 //Time Out
@@ -87,7 +87,7 @@ public class MSTwo {
                 
                 weekLateHours = late + weekLateHours; //calculation of late in a week  
                 weekOverTime = weekOverTime + overTime; //calculation of OT in a week    
-                weekHoursWorked = TotalHoursWorked + weekHoursWorked;//hours worke in a week
+                weekHoursWorked = TotalHoursWorked + weekHoursWorked;//hours worked in a week
                 
                 if (count == 5){//output
                     System.out.println("\n");
